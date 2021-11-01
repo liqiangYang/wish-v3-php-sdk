@@ -1,0 +1,29 @@
+{
+  "name": "liqiang-yang/wish-v3-php-sdk",
+  "version": "0.3.2",
+  "description": "PHP SDK for Wish API v3.",
+  "type": "library",
+  "keywords": [
+    "wish",
+    "php",
+    "api",
+    "sdk"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "liqiang Yang",
+      "email": "nishuihan.yang@gmail.com",
+      "homepage": "https://github.com/liqiangYang"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "guzzlehttp/guzzle": "7.2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Wish\\": "src"
+    }
+  }
+}
