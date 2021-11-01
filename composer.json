@@ -1,6 +1,5 @@
 {
   "name": "liqiang-yang/wish-v3-php-sdk",
-  "version": "0.3.2",
   "description": "PHP SDK for Wish API v3.",
   "type": "library",
   "keywords": [
